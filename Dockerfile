@@ -5,6 +5,7 @@ RUN apk update \
     apache-ant \
     perl-text-csv \
     perl-xml-parser \
+    gdb \
     wget \
     git 
 
