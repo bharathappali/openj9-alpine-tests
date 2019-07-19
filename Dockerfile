@@ -7,6 +7,7 @@ RUN apk update \
     perl-xml-parser \
     gdb \
     wget \
+    curl \
     git 
 
 RUN mkdir -p /home/openj9-testspace; \
